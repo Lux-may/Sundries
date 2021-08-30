@@ -1,0 +1,16 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:block": {
+		"description": {
+			"identifier": "sd:quin_comp_dirt",
+			"register_to_creative_menu": true,
+			"is_experimental": false
+		},
+		"components": {
+			"minecraft:destroy_time": 364.5,
+			"minecraft:block_light_absorption": 0,
+			"minecraft:map_color": "#634731",
+			"minecraft:explosion_resistance": 29524.5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:block": {
+		"description": {
+			"identifier": "sd:comp_cobblestone",
+			"register_to_creative_menu": true,
+			"is_experimental": false
+		},
+		"components": {
+			"minecraft:destroy_time": 1.8,
+			"minecraft:block_light_absorption": 0,
+			"minecraft:map_color": "#888788",
+			"minecraft:explosion_resistance": 9
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "sd:stone_dust",
+			"category": "Items"
+		},
+		"components": {
+			"minecraft:icon": "stone_dust",
+			"minecraft:render_offsets": "miscellaneous"
+		}
+	}
+}

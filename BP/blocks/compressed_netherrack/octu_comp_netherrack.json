@@ -1,0 +1,16 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:block": {
+		"description": {
+			"identifier": "sd:octu_comp_netherrack",
+			"register_to_creative_menu": true,
+			"is_experimental": false
+		},
+		"components": {
+			"minecraft:destroy_time": 2624.4,
+			"minecraft:block_light_absorption": 0,
+			"minecraft:map_color": "#2b1010",
+			"minecraft:explosion_resistance": 17218688.4
+		}
+	}
+}
